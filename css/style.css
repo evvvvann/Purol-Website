@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+#Logo {
+    width: auto;
+    height: 50px;
+}
+
+header {
+    display: flex;
+    padding: 10px;
+}
+
+nav {
+    background-color: #92281b;
+    border-radius: 100px;
+    padding: 13px 24px;
+    margin-left: 50px;
+}
+
+nav a {
+    color: #e2d4d1;
+    text-decoration: none;
+    
+}
+
+nav a:hover {
+    color: #ae4017;
+    font-weight: bold;
+}
